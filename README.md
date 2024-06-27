@@ -113,65 +113,67 @@
 
 # Phidippus princeps	- Grayish Jumping Spider
 <p float="left">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/396720904/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/396675010/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/390177531/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/385390811/large.jpeg" width="200" height = "200">
 </p>
 
 # Phidippus whitmani	- Whitman's Jumping Spider
 <p float="left">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398683595/large.jpg" width="200" height = "200">
+    <img src="https://static.inaturalist.org/photos/398847528/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/397890852/large.jpg" width="200" height = "200">
 </p>
 
 # Evarcha hoyi	- Hoy's jumping spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/396559988/large.jpg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/393512151/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364993289/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/310819064/large.jpg" width="200" height="200">
 </p>
 
 # Hentzia palmarum	- Common Hentz Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399505931/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398307337/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/397759378/large.jpeg" width="200" height = "200">
 </p>
 
 # Tutelina harti	- Hart's Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/397375459/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395256868/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/393903252/large.jpg" width="200" height = "200">
 </p>
 
 # Synageles venator	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/399087914/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/392891377/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/384475735/large.jpg" width="200" height = "200">
 </p>
 
 # Pelegrina flavipes	- Yellowleg Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398408640/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/390196854/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/294173346/large.jpg" width="200" height = "200">
 </p>
 
 # Synemosyna formica	- Slender Ant-mimic Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/398396604/large.jpg" width="200" height = "200">
+    <img src="https://static.inaturalist.org/photos/390431223/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/386908406/large.jpeg" width="200" height = "200">
 </p>
 
 # Tutelina elegans	- Thin-spined Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/399180264/large.jpeg" width="200" height = "200">
+    <img src="https://static.inaturalist.org/photos/396457628/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/198759513/large.png" width="200" height = "200">
 </p>
 
 # Tutelina similis	- Thick-spined Jumping Spider
@@ -183,9 +185,9 @@
 
 # Marpissa formosa	- Short-bellied Slender Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height = "200">
+    <img src="" width="200" height = "200">
+    <img src="" width="200" height = "200">
 </p>
 
 # Habronattus calcaratus	
