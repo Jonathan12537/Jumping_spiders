@@ -22,37 +22,37 @@
 
 # Attulus fasciger	- Asiatic Wall Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/399656237/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398996653/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398046377/large.jpg" width="200" height="200">
 </p>
 
 # Eris militaris	- Bronze Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Maevia inclemens	- Dimorphic Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Myrmarachne formicaria	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus clarus	- Brilliant Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Naphrys pulex	- Flea Jumping Spider
