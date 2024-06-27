@@ -6,7 +6,7 @@
 # Phidippus audax	- Bold Jumping Spider
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399668665/large.jpg" width="200" height = "200">
-    <img src="https://static.inaturalist.org/photos/399209306/large.jpg" width="200" height = "300">
+    <img src="[https://static.inaturalist.org/photos/399209306/large.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/398844559/large.jpeg)" width="200" height = "200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399286647/large.jpg" width="200" height = "200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399159941/large.jpeg" width="200" height = "200">
 </p>
