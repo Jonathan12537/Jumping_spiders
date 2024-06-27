@@ -45,58 +45,59 @@
 
 # Myrmarachne formicaria	
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395254882/large.jpeg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/386478319/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/383949664/large.jpg" width="200" height="200">
 </p>
 
 # Phidippus clarus	- Brilliant Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/399257443/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399208142/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399221064/large.jpeg" width="200" height="200">
 </p>
 
 # Naphrys pulex	- Flea Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399245317/large.jpg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/397694946/large.jpg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/396623821/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/396385633/large.jpg" width="200" height="200">
 </p>
 
 # Pelegrina proterva	- Common White-cheeked Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus purpuratus	- Marbled Purple Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Pelegrina galathea	- Peppered Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus decorus	- Beautiful Ornamented Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus borealis	- Boreal Tufted Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Hentzia mitrata	- White-jawed Jumping Spider
