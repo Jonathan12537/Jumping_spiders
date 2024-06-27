@@ -1,7 +1,7 @@
 # Salticus scenicus - Zebra Jumping Spider
 <p float="left">
-    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399686688/large.jpg" width="100">
-    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399654981/large.jpeg" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399686688/large.jpg" width="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399654981/large.jpeg" width="200">
 </p>
 # Phidippus audax	- Bold Jumping Spider
 <p float="left">
