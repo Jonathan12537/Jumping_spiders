@@ -1,9 +1,9 @@
-#Salticus scenicus - Zebra Jumping Spider
-#Phidippus audax	- Bold Jumping Spider
-#Platycryptus undatus	- Tan Jumping Spider
-#Attulus fasciger	- Asiatic Wall Jumping Spider
-#Eris militaris	- Bronze Jumping Spider
-Maevia inclemens	- Dimorphic Jumping Spider
+# Salticus scenicus - Zebra Jumping Spider
+# Phidippus audax	- Bold Jumping Spider
+# Platycryptus undatus	- Tan Jumping Spider
+# Attulus fasciger	- Asiatic Wall Jumping Spider
+# Eris militaris	- Bronze Jumping Spider
+# Maevia inclemens	- Dimorphic Jumping Spider
 Myrmarachne formicaria	
 Phidippus clarus	Brilliant Jumping Spider
 Naphrys pulex	Flea Jumping Spider
