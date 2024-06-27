@@ -69,7 +69,7 @@
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/396681410/large.jpg" width="200" height="200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/392194354/large.jpg" width="200" height="200">
-    <img src="https://static.inaturalist.org/photos/390535007/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/79927730/large.jpeg" width="200" height="200">
     <img src="https://static.inaturalist.org/photos/390501984/large.jpg" width="200" height="200">
 </p>
 
