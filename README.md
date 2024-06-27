@@ -32,7 +32,7 @@
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398688687/large.jpeg" width="200" height="200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395570429/large.jpg" width="200" height="200">
     <img src="https://static.inaturalist.org/photos/397882969/large.jpg" width="200" height="200">
-    <img src="https://static.inaturalist.org/photos/396323190/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/323203287/large.jpeg" width="200" height="200">
 </p>
 
 # Maevia inclemens	- Dimorphic Jumping Spider
