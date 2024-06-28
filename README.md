@@ -5,6 +5,7 @@
 </p>
 
 # Phidippus audax	- Bold Jumping Spider
+<h4>similar markings to Phidippus putnami<h4/>
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399668665/large.jpg" width="200" height = "200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398844559/large.jpeg" width="200" height = "200">
@@ -241,37 +242,40 @@
 
 # Zygoballus rufipes	- Hammer-jawed Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/392969983/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/392889909/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/385398559/large.jpeg" width="200" height="200">
 </p>
 
 # Attulus ammophilus	- Palaearctic Patterned Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/400070633/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/391669166/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398495870/large.jpg" width="200" height="200">
 </p>
 
 # Phlegra hentzi	- Hentz's Lined Jumping Spider
+<h4>looks very similar to Habronattus cognatus but has a red line at the front of its head<h4/>
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/395531668/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/391940444/large.jpg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/369816772/large.jpg" width="200" height="200">
 </p>
 
 # Habronattus cognatus	
+<h4>looks very similar to Phlegra hentzi but is missing the red line at the front of its head<h4/>
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/362954762/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/317600886/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/286055028/large.jpeg" width="200" height="200">
 </p>
 
 # Phidippus putnami	- Putnam's Jumping Spider
+<h4>similar markings to Phidippus audax	<h4/>
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/400048888/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399969640/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399435603/large.jpg" width="200" height="200">
 </p>
 
 # Talavera minuta	- Minute Jumping Spider
