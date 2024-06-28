@@ -5,7 +5,7 @@
 </p>
 
 # Phidippus audax	- Bold Jumping Spider
-<h4>similar markings to Phidippus putnami<h4/>
+<h4>similar markings to Phidippus putnami but missing the distinctive mark on the head<h4/>
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399668665/large.jpg" width="200" height = "200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398844559/large.jpeg" width="200" height = "200">
@@ -271,7 +271,7 @@
 </p>
 
 # Phidippus putnami	- Putnam's Jumping Spider
-<h4>similar markings to Phidippus audax	<h4/>
+<h4>similar markings to Phidippus audax	but has a distinctive mark on its head<h4/>
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/400048888/large.jpg" width="200" height="200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399969640/large.jpg" width="200" height="200">
