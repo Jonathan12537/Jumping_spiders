@@ -282,65 +282,66 @@
 
 # Talavera minuta	- Minute Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395060230/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/384123452/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/371137103/large.jpeg" width="200" height="200">
 </p>
 
 # Admestina wheeleri	- Wheeler's Thick-legged Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/335161970/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/238592294/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/149007379/large.jpg" width="200" height="200">
 </p>
 
 # Phidippus pius	
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/397534969/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398487393/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/343337962/large.jpeg" width="200" height="200">
 </p>
 
 # Pellenes peninsularis	
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/231882473/large.jpeg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/153066811/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/69137794/large.jpeg" width="200" height="200">
 </p>
 
 # Attulus pubescens	- Downy Jumping Spider
+<h4>very similar to Attulus fasciger but has dots running down its back<h4/>
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/394150128/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/391657817/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/391144294/large.jpg" width="200" height="200">
 </p>
 
 # Euophrys monadnock	- Contrasting Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395849661/large.jpeg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/396248836/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/295548345/large.jpg" width="200" height="200">
 </p>
 
 # Neon nelli	- Nell's Tiny Jumping Spider
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/393010736/large.jpeg" width="200" height="200">
+    <img src="https://static.inaturalist.org/photos/386528004/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/119722038/large.jpeg" width="200" height="200">
 </p>
 
 # Marpissa pikei	- Pike Slender Jumper
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/382819341/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/392845460/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399221000/large.jpeg" width="200" height="200">
 </p>
 
 # Habronattus americanus	
 <p float="left">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
-    <img src="" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398015622/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395739769/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395739501/large.jpeg" width="200" height="200">
 </p>
 
 # Eris flava	- White-banded Jumping Spider
