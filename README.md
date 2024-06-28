@@ -29,6 +29,7 @@
 </p>
 
 # Eris militaris	- Bronze Jumping Spider
+<h4>similar to Paraphidippus aurantius but lacking the green coloration <h4/>
 <p float="left">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398688687/large.jpeg" width="200" height="200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395570429/large.jpg" width="200" height="200">
@@ -227,6 +228,7 @@
 </p>
 
 # Paraphidippus aurantius	- Golden Jumping Spider
+<h4>similar to Eris militaris but with green markings<h4/>
 <p float="left">
     <img src="https://static.inaturalist.org/photos/400033870/large.jpeg" width="200" height="200">
     <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399618007/large.jpg" width="200" height="200">
