@@ -185,334 +185,330 @@
 
 # Marpissa formosa	- Short-bellied Slender Jumping Spider
 <p float="left">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
-    <img src="" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398441429/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/388653487/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/377781794/large.jpeg" width="200" height = "200">
 </p>
 
 # Habronattus calcaratus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/390288116/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/297585221/large.jpeg" width="200" height = "200">
+    <img src="https://static.inaturalist.org/photos/292395591/large.jpeg" width="200" height = "200">
 </p>
 
 # Habronattus borealis	- Boreal Paradise Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/327319774/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/327319761/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/311440739/large.jpeg" width="200" height = "200">
 </p>
 
 # Habronattus viridipes	- Green-legged Ornamented Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398429378/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/396945094/large.jpg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/391575395/large.jpg" width="200" height = "200">
 </p>
 
 # Pseudeuophrys lanigera	- House Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/395813651/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/387934043/large.jpeg" width="200" height = "200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/385263985/large.jpeg" width="200" height = "200">
 </p>
 
 # Eris floridana	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399644396/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/376355333/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/334169525/large.jpeg" width="200" height="200">
 </p>
 
 # Paraphidippus aurantius	- Golden Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://static.inaturalist.org/photos/400033870/large.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399618007/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/399322156/large.jpeg" width="200" height="200">
 </p>
 
 # Attulus floricola	- Flower Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/393261610/large.jpg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/385667853/original.jpeg" width="200" height="200">
+    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/319441053/large.jpg" width="200" height="200">
 </p>
 
 # Zygoballus rufipes	- Hammer-jawed Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Attulus ammophilus	- Palaearctic Patterned Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phlegra hentzi	- Hentz's Lined Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus cognatus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus putnami	- Putnam's Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Talavera minuta	- Minute Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Admestina wheeleri	- Wheeler's Thick-legged Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus pius	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Pellenes peninsularis	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Attulus pubescens	- Downy Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Euophrys monadnock	- Contrasting Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Neon nelli	- Nell's Tiny Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Marpissa pikei	- Pike Slender Jumper
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus americanus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Eris flava	- White-banded Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Pelegrina flaviceps	- Big-headed White-cheeked Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Attidops youngi	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Pseudeuophrys erratica	- Black-palped Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Marpissa lineata	- Four-lined Slender Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Sibianor aemulus	- Flat-legged Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Hasarius adansoni	- Adanson's House Jumper
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Plexippus paykulli	- Pantropical Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Zygoballus nervosus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus captiosus	- Bare-kneed Ornamented Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Metacyrba taeniola	- Ribbon Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Clynotis severus	- Stern Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus johnsoni	- Johnson's Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Menemerus bivittatus	- Gray Wall Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Genus Heliophanus	Sun Jumping Spiders
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Sassacus papenhoei	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Phidippus insignarius	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Ghelna canadensis	- Three-lined Ground Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Eris rufa	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus altanus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Marpissa grata	- Toothed Slender Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Habronattus coecatus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Pellenes tripunctatus	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Attulus finschi	
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
 
 # Attulus striatus	- Striped Jumping Spider
 <p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
+    <img src="" width="200" height="200">
 </p>
-<p float="left">
-    <img src="" width="100">
-    <img src="" width="100">
-    <img src="" width="100">
-</p>
+
