@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Spider Data and Image Rendering
-  fetch("data/jumping_spider_list.json")
+  fetch("/data/jumping_spider_list.json")
     .then((response) => response.json())
     .then((data) => {
       data.sort((a, b) => (b.sightings ?? 0) - (a.sightings ?? 0));
