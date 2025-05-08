@@ -251,13 +251,20 @@ body.dark-mode #menu-links a:hover {
 }
 
 /* iNaturalist logo (unchanged) */
+/* Default (light theme) styles */
 .menu-logo {
   width: 24px;
   height: 24px;
   margin-right: 8px;
   vertical-align: middle;
-  filter: brightness(0) invert(1);
+  filter: brightness(0); /* Makes black images stay black in light mode */
   transition: filter 0.3s ease;
+}
+
+/* Dark theme override */
+.dark-mode .menu-logo,
+[data-theme="dark"] .menu-logo {
+  filter: brightness(0) invert(1); /* Makes black images white in dark mode */
 }
 
 body.dark-mode .menu-logo {
