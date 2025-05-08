@@ -1,10 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-  if (location.hostname === "jonathan12537.github.io") {
-    const existingBase = document.querySelector("base");
-    if (existingBase) {
-      existingBase.remove();
-    }
-  }
   // Spider Data and Image Rendering
   fetch("/Jumping_spiders/Jumping_spiders/data/jumping_spider_list.json")
     .then((response) => response.json())
