@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         for (let i = 1; i <= 4; i++) {
           const img = document.createElement("img");
-          img.src = `Jumping_spiders/media/${scientificName.replace(
+          img.src = `/Jumping_spiders/media/${scientificName.replace(
             / /g,
             "_"
           )}_${i}.jpg`;
