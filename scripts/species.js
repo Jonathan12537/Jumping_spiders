@@ -1,4 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
+  if (location.hostname === "jonathan12537.github.io") {
+    const base = document.createElement("base");
+    base.href = "/Jumping_spiders/";
+    document.head.removeChild(base);
+  }
   // Spider Data and Image Rendering
   fetch("/data/jumping_spider_list.json")
     .then((response) => response.json())
