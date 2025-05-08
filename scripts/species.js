@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
             / /g,
             "_"
           )}_${i}.jpg`;
+          console.log(img.src); // Log the image source for debugging
           img.alt = regularName;
           img.loading = "lazy"; // Add lazy loading
           img.onerror = () => {
