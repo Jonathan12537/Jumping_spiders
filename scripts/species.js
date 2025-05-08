@@ -29,7 +29,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
         for (let i = 1; i <= 4; i++) {
           const img = document.createElement("img");
-          img.src = `../media/${scientificName.replace(/ /g, "_")}_${i}.jpg`;
+          img.src = `Jumping_spiders/media/${scientificName.replace(
+            / /g,
+            "_"
+          )}_${i}.jpg`;
           img.alt = regularName;
           img.loading = "lazy"; // Add lazy loading
           img.onerror = () => {
