@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
   // Spider Data and Image Rendering
-  fetch("/Jumping_spiders/data/jumping_spider_list.json")
+  fetch("/Jumping_spiders/Jumping_spiders/data/jumping_spider_list.json")
     .then((response) => response.json())
     .then((data) => {
       data.sort((a, b) => (b.sightings ?? 0) - (a.sightings ?? 0));
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         for (let i = 1; i <= 4; i++) {
           const img = document.createElement("img");
-          img.src = `/Jumping_spiders/Jumping_spiders/media/${scientificName.replace(
+          img.src = `/Jumping_spiders/media/${scientificName.replace(
             / /g,
             "_"
           )}_${i}.jpg`;
