@@ -1,10 +1,3 @@
-// Check if running on GitHub Pages
-if (window.location.hostname === "jonathan12537.github.io") {
-  const base = document.createElement("base");
-  base.href = "/Jumping_spiders/";
-  document.head.appendChild(base);
-}
-
 document.addEventListener("DOMContentLoaded", function () {
   // Menu Toggle Functionality
   const menuToggle = document.getElementById("menu-toggle");
