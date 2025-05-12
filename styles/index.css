@@ -274,3 +274,12 @@ body.dark-mode .menu-logo {
 #menu-links a:hover .menu-logo {
   filter: brightness(0) invert(0.7);
 }
+
+.spider-description {
+  margin-top: 0.5em;
+  font-size: 1rem;
+  color: #333;
+}
+body.dark-mode .spider-description {
+  color: #bbb;
+}

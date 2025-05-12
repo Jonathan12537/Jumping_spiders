@@ -2,42 +2,50 @@
   {
     "scientific_name": "Salticus scenicus",
     "regular_name": "Zebra Jumping Spider",
-    "sightings": 4726
+    "sightings": 4726,
+    "description": "A common jumping spider known for its distinctive black and white striped pattern, resembling a zebra. Found in various habitats, including gardens and buildings. They are very regularly found in close proximity to humans. 5 - 9 mm long."
   },
   {
     "scientific_name": "Phidippus audax",
     "regular_name": "Bold Jumping Spider",
-    "sightings": 3087
+    "sightings": 3087,
+    "description": "The largest jumping spider found in ontario. They are known for their striking green chelicerae and shy behavior. They are commonly found in agricultural areas. 6 - 15 mm long."
   },
   {
     "scientific_name": "Platycryptus undatus",
     "regular_name": "Tan Jumping Spider",
-    "sightings": 2028
+    "sightings": 2028,
+    "description": "This species is known for being extremely flat. They have a prominent chevron-like pattern on their abdomens making them easy to identify. They are commonly found on trees and vertical surfaces. 8.5 - 13 mm long."
   },
   {
     "scientific_name": "Attulus fasciger",
     "regular_name": "Asiatic Wall Jumping Spider",
-    "sightings": 844
+    "sightings": 844,
+    "description": "A small jumping spider with a distinctive pattern of dark and light markings. They are often found on walls and fences, where they hunt small insects. They are very regularly found in close proximity to humans. 3 - 4 mm long."
   },
   {
     "scientific_name": "Eris militaris",
     "regular_name": "Bronze Jumping Spider",
-    "sightings": 822
+    "sightings": 822,
+    "description": "A small jumping spider with a distinctive bronze coloration. They are found in sheltered areas, and are especially common in apple orchards. They are also commonly found in dead wood. 4.7 - 8 mm long."
   },
   {
     "scientific_name": "Phidippus clarus",
     "regular_name": "Brilliant Jumping Spider",
-    "sightings": 661
+    "sightings": 661,
+    "description": "A small jumping spider, the males have a distinctive pattern of dark, light, and orange markings. It is often found hanging upside down near the tops leaves of short plants such as flowers and basil. 3.2 - 4 mm long."
   },
   {
     "scientific_name": "Myrmarachne formicaria",
     "regular_name": "Ant Mimic Jumping Spider",
-    "sightings": 600
+    "sightings": 600,
+    "description": "A small jumping spider that mimics the appearance and behavior of ants. They are often found in leaf litter and on plants, where they hunt small insects. 5 - 7 mm long."
   },
   {
     "scientific_name": "Maevia inclemens",
     "regular_name": "Dimorphic Jumping Spider",
-    "sightings": 580
+    "sightings": 580,
+    "description": "A small jumping spider with a distinctive pattern of dark and light markings. This species is unique as the males have 2 distinct patterns. They are often found on walls and fences, where they hunt small insects. 4.75 - 8 mm long."
   },
   {
     "scientific_name": "Naphrys pulex",

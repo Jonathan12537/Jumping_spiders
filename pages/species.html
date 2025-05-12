@@ -110,14 +110,22 @@
                   "_"
                 )}_${i}.jpg`;
                 img.alt = regularName;
-                img.loading = "lazy"; // Add lazy loading
+                img.loading = "lazy";
                 img.onerror = () => {
-                  img.style.display = "none"; // Hide broken images
+                  img.style.display = "none";
                 };
                 imageGrid.appendChild(img);
               }
 
               card.appendChild(imageGrid);
+
+              const description =
+                spider.description ?? "No description available.";
+              const descPara = document.createElement("p");
+              descPara.className = "spider-description";
+              descPara.textContent = description;
+              card.appendChild(descPara);
+
               container.appendChild(card);
             });
           })
