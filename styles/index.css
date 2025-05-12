@@ -283,3 +283,8 @@ body.dark-mode .menu-logo {
 body.dark-mode .spider-description {
   color: #bbb;
 }
+
+.menu-toggle {
+  background-color: #3b7c57 !important; /* Force green as default */
+  background-image: linear-gradient(to bottom, #3b7c57, #2e6345) !important;
+}
