@@ -267,8 +267,8 @@ body.dark-mode .hero-images img {
 }
 
 .life-stages {
-  max-width: 300px;
-  background-color: #f8f8f8;
+  width: 100%;
+  max-width: 600px;
 }
 
 /* Dark mode adjustments */
