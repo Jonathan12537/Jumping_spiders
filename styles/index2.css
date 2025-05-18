@@ -277,6 +277,8 @@ body.dark-mode .hero-images img {
   max-width: 600px;
   height: auto;
   max-height: 600px;
+  margin-top: 50px;
+  margin-left: 100px;
 }
 
 /* Dark mode adjustments */
