@@ -39,6 +39,11 @@
   max-width: 800px;
 }
 
+li {
+  list-style: none; /* optional, for aesthetic */
+  max-width: 100%;
+}
+
 .welcome-content h2 {
   color: #3b7c57;
   text-align: center;
@@ -267,8 +272,11 @@ body.dark-mode .hero-images img {
 }
 
 .life-stages {
+  display: block;
   width: 100%;
   max-width: 600px;
+  height: auto;
+  max-height: 600px;
 }
 
 /* Dark mode adjustments */
