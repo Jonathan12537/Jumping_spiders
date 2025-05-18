@@ -266,6 +266,11 @@ body.dark-mode .hero-images img {
   background-color: #f8f8f8; /* Neutral light gray */
 }
 
+.life-stages {
+  max-width: 300px;
+  background-color: #f8f8f8;
+}
+
 /* Dark mode adjustments */
 body.dark-mode .hero-images img {
   background-color: #2a2a2a;
